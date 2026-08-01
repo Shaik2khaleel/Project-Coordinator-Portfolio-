@@ -1,40 +1,51 @@
-# Project Coordinator Portfolio
+🚀 Project Coordinator Portfolio
 
-## Overview
+Welcome
 
-Welcome to my Project Coordinator Portfolio.
+Hello! I'm an aspiring Project Coordinator / PMO Coordinator with experience in project coordination, documentation, reporting, stakeholder communication, and project tracking.
 
-This portfolio demonstrates my understanding of Project Coordination, PMO Support, Agile Project Management, Project Documentation, Stakeholder Communication, Project Scheduling, Risk Management, and Status Reporting.
+This repository showcases a sample IT project portfolio with professional project management artifacts.
 
-## Project
+Skills
 
-**Company:** ABC Retail LLC (Portfolio Project)
+Project Coordination
 
-**Project:** Digital Transformation & E-Commerce Website Implementation
+PMO Support
 
-**Role:** Project Coordinator
+Risk Management
 
-**Duration:** 6 Months
+RAID Management
 
-**Methodology:** Agile Scrum
+Budget Tracking
 
-## Skills Demonstrated
+Stakeholder Communication
 
-- Project Planning
-- Project Scheduling
-- Work Breakdown Structure (WBS)
-- Gantt Chart
-- Risk Register
-- RAID Log
-- Stakeholder Management
-- Budget Tracking
-- Status Reporting
-- Meeting Minutes
-- Agile Scrum
-- Jira
-- Microsoft Excel
-- PMO Documentation
+Status Reporting
 
-## Repository Status
+Microsoft Excel
 
-This portfolio is currently under development and will be updated with additional project documents and dashboards.
+Microsoft Word
+
+Git & GitHub
+
+Repository Structure
+
+01_Project_Documents -- Charter, Schedule, Gantt Chart
+
+02_PMO_Documents -- Risk Register, RAID Log, Issue Log, Change Requests
+
+03_Project_Reports -- Weekly Reports, Executive Reports, Closure Report
+
+04_Meeting_Minutes -- Meeting records
+
+05_Dashboards -- Budget Tracker, PMO Dashboard, KPI Dashboard
+
+06_Templates -- Communication Plan, Resource Plan, Communication Matrix
+
+Portfolio Objective
+
+This repository demonstrates project coordination practices and documentation using a fictional IT implementation project for learning and portfolio purposes.
+
+Contact
+
+Thank you for visiting this portfolio
